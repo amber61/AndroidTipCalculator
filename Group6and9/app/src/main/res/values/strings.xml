@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Groupwork 6&amp;9</string>
+
+    <string name="hello_world1">Hello One World!</string>
+    <string name="hello_world2">Hello Two World!</string>
+    <string name="hello_world3">Hello Three World!</string>
+    <string name="hello_world4">Hello Four World!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- The strings value for the first mini app from Zhe Huang -->
+    <string name="htipintroduction">This mini app can be used to record tip details in restaurants, icluding restaurant name, expense amount, tip percentage, tip amount, total amount, tip notes and date created. Also, the details can be added, deleted and chosen any one as you like.</string>
+
+
+
+
+
+    <!-- The strings value for the fourth mini app from Ying Mei Zhu -->
+    <string name="hello_blank_fragment">Hello from Ying Mei Zhu!</string>
+    <string name="contact_instruction_fragment">Introduction\n\nThe Contacts List app is to display the Contacts,Search for a contact, Add and Delete a contact.\n\n\nAuthor: Ying Mei Zhu</string>
+    <string name="some_hint">Search</string>
+
+
+    <string-array name="name_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
